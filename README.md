@@ -12,3 +12,9 @@ Simula uma checagem de e-mails vazados em listas conhecidas (pode evoluir com AP
 
 ### 📋 3. Verificador de Força de Senha
 Avalia se a senha é fraca ou forte com base em critérios de segurança.
+
+### 🧹 4. Limpador de Dados Sensíveis em Texto
+Remove dados como CPF, e-mails ou cartões de crédito de um arquivo de texto.
+
+### 🔎 5. Detector de Links Suspeitos
+Verifica se um link pode ser considerado suspeito com base em padrões comuns de phishing.
